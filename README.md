@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+I’m Nithika Insara Perera, a third-year student at SLIIT, specializing in Software Engineering. Passionate about coding, problem-solving, and UI/UX design, I enjoy working on innovative projects that challenge my skills. Always open to learning, collaborating, and exploring new technologies! 🚀
 ## ❤️ Sponsor Me
 If you like my work, consider supporting me through GitHub Sponsors!  
 
